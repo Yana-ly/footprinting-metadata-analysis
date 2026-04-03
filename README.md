@@ -55,19 +55,6 @@ This project focuses on performing passive footprinting techniques to analyze fi
 
 ---
 
-## 📂 Files Included
-
-* Assignment Report (PDF)
-* Screenshots of analysis results
-
----
-
-## 🎯 Conclusion
-
-This analysis highlights the importance of understanding file structures and metadata in cybersecurity. Even simple files such as images can hide critical information, making footprinting an essential step in ethical hacking.
-
----
-
 ## 👤 Author
 
 **Lyana Yasmin**
